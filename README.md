@@ -1,5 +1,6 @@
-# Welcome to GitHub Desktop!
+# Welcome to Machine Learning Examples!
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
+Machine Learning Example Using Iris Data
 
-Nicholas Karlson
+
+
